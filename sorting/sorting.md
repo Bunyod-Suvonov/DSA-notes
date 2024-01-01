@@ -2,6 +2,11 @@
 
 # Sorting
 
+### Efficiency Comparison of Sorting Algorithms
+
+![image](https://github.com/Bunyod-Suvonov/DSA-notes/assets/109164894/cdbb1e51-4304-4be5-824b-a26ba116a770)
+![image](https://github.com/Bunyod-Suvonov/DSA-notes/assets/109164894/f9670cc0-9b33-4742-af04-2ecb39c7b471)
+
 ### Insertion sort
 
 ![image](https://github.com/Bunyod-Suvonov/DSA-notes/assets/109164894/9b7cb6aa-ae80-491e-a1fa-6bd74a94d9d8)
